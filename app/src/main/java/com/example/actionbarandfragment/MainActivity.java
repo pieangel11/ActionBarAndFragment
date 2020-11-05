@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements ActionBar.TabList
         super.onCreate(savedInstanceState);
         ActionBar bar = getSupportActionBar();
     }
- 
+
     @Override
     public void onTabSelected(ActionBar.Tab tab, FragmentTransaction ft) {
 
